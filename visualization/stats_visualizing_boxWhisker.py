@@ -1,11 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# # COURSE: Master statistics and machine learning: Intuition, Math, code
-# ##### COURSE URL: udemy.com/course/statsml_x/?couponCode=202006 
 # ## SECTION: Visualizing data
-# ### VIDEO: Box-and-whisker plots
-# #### TEACHER: Mike X Cohen, sincxpress.com
+# ###  Box-and-whisker plots
+
 # 
 
 # In[ ]:
