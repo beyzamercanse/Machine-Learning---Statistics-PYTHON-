@@ -1,11 +1,9 @@
 %%
-%   COURSE: Master statistics and machine learning: intuition, math, code
-%      URL: udemy.com/course/statsml_x/?couponCode=202304 
+%   
 % 
 %  SECTION: Visualizing data
-%    VIDEO: Box-and-whisker plots
-% 
-%  TEACHER: Mike X Cohen, sincxpress.com
+%  Box-and-whisker plots
+
 %
 
 %%
